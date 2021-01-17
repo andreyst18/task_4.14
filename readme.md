@@ -7,7 +7,10 @@ LICENSE: [MIT](./license.md)
 ---
 
 ### Содержание
+
 1. [Что такое GIT?](./about_git.md)
+2. [Установка GIT](./install_git.md)
+3. [Настройка GIT](./customisation.md)
 
 
 
